@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/FunctionNodalAverageIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/RhoEAFromPressureTemperatureFunctionVelocityIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/RhoEAFromPressureTemperatureVelocityIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/SpecificInternalEnergyIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/SpecificTotalEnthalpyIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/SpecificVolumeIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/SumIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/VariableFunctionProductIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/VariableProductIC.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/ics/VectorVelocityIC.C"

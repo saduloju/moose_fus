@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/AugmentedLagrangeInterface.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/BilinearMixedModeCohesiveZoneModel.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/LMWeightedGapUserObject.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/LMWeightedVelocitiesUserObject.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/NodalArea.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/NodalDensity.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/NodalWaveSpeed.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/PenaltyFrictionUserObject.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/PenaltySimpleCohesiveZoneModel.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/PenaltyWeightedGapUserObject.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/WeightedGapUserObject.C"
+#include"/home/64a/projects/moose2/modules/contact/src/userobjects/WeightedVelocitiesUserObject.C"

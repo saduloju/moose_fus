@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/framework/src/controls/BoolFunctionControl.C"
+#include"/home/64a/projects/moose2/framework/src/controls/ConditionalEnableControl.C"
+#include"/home/64a/projects/moose2/framework/src/controls/ConditionalFunctionEnableControl.C"
+#include"/home/64a/projects/moose2/framework/src/controls/Control.C"
+#include"/home/64a/projects/moose2/framework/src/controls/ControllableItem.C"
+#include"/home/64a/projects/moose2/framework/src/controls/ControllableParameter.C"
+#include"/home/64a/projects/moose2/framework/src/controls/PIDTransientControl.C"
+#include"/home/64a/projects/moose2/framework/src/controls/RealFunctionControl.C"
+#include"/home/64a/projects/moose2/framework/src/controls/TimePeriod.C"
+#include"/home/64a/projects/moose2/framework/src/controls/TimePeriodBase.C"

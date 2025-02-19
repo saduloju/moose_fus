@@ -1,0 +1,12 @@
+
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/HLLCUserObject.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/INSADObjectTracker.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/INSFVRhieChowInterpolator.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/INSFVRhieChowInterpolatorSegregated.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/NSPressureDerivs.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/NSPressurePin.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/NSTemperatureDerivs.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/NSViscStressTensorDerivs.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/PINSFVRhieChowInterpolator.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/PINSFVRhieChowInterpolatorSegregated.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/userobjects/RhieChowInterpolatorBase.C"

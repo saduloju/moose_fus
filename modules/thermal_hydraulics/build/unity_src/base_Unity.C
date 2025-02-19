@@ -1,0 +1,12 @@
+
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/FlowModel.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/FlowModelSetup.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/FlowModelSetup1Phase.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/FlowModelSinglePhase.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/HeatConductionModel.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/RZSymmetry.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/Simulation.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/THMMesh.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/THMObject.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/ThermalHydraulicsApp.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/base/WallFrictionModels.C"

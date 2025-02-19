@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/CoupledBEEquilibriumSub.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/CoupledBEKinetic.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/CoupledConvectionReactionSub.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/CoupledDiffusionReactionSub.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/DarcyFluxPressure.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/DesorptionFromMatrix.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/DesorptionToPorespace.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/PrimaryConvection.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/PrimaryDiffusion.C"
+#include"/home/64a/projects/moose2/modules/chemical_reactions/src/kernels/PrimaryTimeDerivative.C"

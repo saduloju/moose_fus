@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/CFLTimeStepSize.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/INSElementIntegralEnergyAdvection.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/INSExplicitTimestepSelector.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/IntegralDirectedSurfaceForce.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/MassFluxWeightedFlowRate.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/MfrPostprocessor.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/NSEntropyError.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/PressureDrop.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/RayleighNumber.C"
+#include"/home/64a/projects/moose2/modules/navier_stokes/src/postprocessors/VolumetricFlowRate.C"

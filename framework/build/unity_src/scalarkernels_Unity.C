@@ -1,0 +1,12 @@
+
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ADScalarKernel.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ADScalarTimeDerivative.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ADScalarTimeKernel.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/AverageValueConstraint.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/CoupledODETimeDerivative.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/NodalEqualValueConstraint.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/NullScalarKernel.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ODETimeDerivative.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ParsedODEKernel.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ScalarKernel.C"
+#include"/home/64a/projects/moose2/framework/src/scalarkernels/ScalarKernelBase.C"

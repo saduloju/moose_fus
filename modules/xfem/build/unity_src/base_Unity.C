@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/modules/xfem/src/base/EnrichmentFunctionCalculation.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEM.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMApp.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMAppTypes.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMCrackGrowthIncrement2DCut.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMCutElem.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMCutElem2D.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMCutElem3D.C"
+#include"/home/64a/projects/moose2/modules/xfem/src/base/XFEMFuncs.C"

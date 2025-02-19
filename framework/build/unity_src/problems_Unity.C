@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/framework/src/problems/DisplacedProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/DumpObjectsProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/EigenProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/ExternalProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/FEProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/FEProblemBase.C"
+#include"/home/64a/projects/moose2/framework/src/problems/Problem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/ReferenceResidualProblem.C"
+#include"/home/64a/projects/moose2/framework/src/problems/SubProblem.C"

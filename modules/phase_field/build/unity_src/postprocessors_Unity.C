@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/AverageGrainVolume.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/DiscreteNucleationData.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/DiscreteNucleationTimeStep.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/FauxGrainTracker.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/FeatureFloodCount.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/FeatureVolumeFraction.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/GrainBoundaryArea.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/GrainTracker.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/GrainTrackerElasticity.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/GrainTrackerInterface.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/PFCElementEnergyIntegral.C"
+#include"/home/64a/projects/moose2/modules/phase_field/src/postprocessors/WeightedVariableAverage.C"

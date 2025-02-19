@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/framework/src/functormaterials/FunctorADConverter.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/FunctorMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/FunctorSmoother.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/GenericFunctorGradientMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/GenericFunctorMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/GenericVectorFunctorMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/ParsedFunctorMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/PiecewiseByBlockFunctorMaterial.C"
+#include"/home/64a/projects/moose2/framework/src/functormaterials/VectorMagnitudeFunctorMaterial.C"

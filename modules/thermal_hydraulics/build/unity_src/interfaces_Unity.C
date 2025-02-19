@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/ADShaftConnectableUserObjectInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/DiscreteLineSegmentInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/GravityInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/HSBoundaryInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/HeatStructureInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/LoggingInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/ShaftConnectable.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/ShaftConnectableUserObjectInterface.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/interfaces/SlopeReconstruction1DInterface.C"

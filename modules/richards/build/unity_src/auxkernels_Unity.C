@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/DarcyFluxComponent.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsDensityAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsDensityPrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsDensityPrimePrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsRelPermAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsRelPermPrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsRelPermPrimePrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsSatAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsSatPrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsSeffAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsSeffPrimeAux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/auxkernels/RichardsSeffPrimePrimeAux.C"

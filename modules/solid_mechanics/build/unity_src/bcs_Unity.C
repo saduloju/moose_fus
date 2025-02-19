@@ -1,0 +1,12 @@
+
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/CoupledPressureBC.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/DashpotBC.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/DisplacementAboutAxis.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/InteractionIntegralBenchmarkBC.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/PenaltyInclinedNoDisplacementBC.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/PresetAcceleration.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/PresetDisplacement.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/PresetVelocity.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/Pressure.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/StickyBC.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/bcs/Torque.C"

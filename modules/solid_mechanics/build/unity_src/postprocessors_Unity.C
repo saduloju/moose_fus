@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/AsymptoticExpansionHomogenizationElasticConstants.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/CavityPressurePostprocessor.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/CrackFrontData.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/CriticalTimeStep.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/Mass.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/MaterialTensorAverage.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/MaterialTensorIntegral.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/MaterialTimeStepPostprocessor.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/NormalBoundaryDisplacement.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/PolarMomentOfInertia.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/SidesetReaction.C"
+#include"/home/64a/projects/moose2/modules/solid_mechanics/src/postprocessors/TorqueReaction.C"

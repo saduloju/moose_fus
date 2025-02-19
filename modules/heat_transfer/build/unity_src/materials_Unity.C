@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/AnisoHeatConductionMaterial.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/ElectricalConductivity.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/FunctionPathEllipsoidHeatSource.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/GapConductance.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/GapConductanceConstant.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/HeatConductionMaterial.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/SemiconductorLinearConductivity.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/SideSetHeatTransferMaterial.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/ThermalCompliance.C"
+#include"/home/64a/projects/moose2/modules/heat_transfer/src/materials/ThermalSensitivity.C"

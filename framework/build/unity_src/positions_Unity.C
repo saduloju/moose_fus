@@ -1,0 +1,11 @@
+
+#include"/home/64a/projects/moose2/framework/src/positions/DistributedPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/ElementCentroidPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/ElementGroupCentroidPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/FilePositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/FunctorPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/InputPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/MultiAppPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/Positions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/ReporterPositions.C"
+#include"/home/64a/projects/moose2/framework/src/positions/TransformedPositions.C"

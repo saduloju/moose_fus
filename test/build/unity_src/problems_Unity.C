@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/test/src/problems/BasicExternalProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/CheckActiveMatPropProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/DummyExternalProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/FailingProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/FixedPointProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/MooseTestProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/SlowProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/SyncTestExternalProblem.C"
+#include"/home/64a/projects/moose2/test/src/problems/TagTestProblem.C"

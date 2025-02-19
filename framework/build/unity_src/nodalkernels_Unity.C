@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/ADNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/ConstantRate.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/CoupledForceNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/LowerBoundNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/NodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/NodalKernelBase.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/PenaltyDirichletNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/ReactionNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/TimeDerivativeNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/TimeNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/UpperBoundNodalKernel.C"
+#include"/home/64a/projects/moose2/framework/src/nodalkernels/UserForcingFunctionNodalKernel.C"

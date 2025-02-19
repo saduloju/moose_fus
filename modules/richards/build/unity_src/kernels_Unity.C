@@ -1,0 +1,13 @@
+
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/DarcyFlux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/PoroFullSatTimeDerivative.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/Q2PNegativeNodalMassOld.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/Q2PNodalMass.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/Q2PPorepressureFlux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/Q2PSaturationDiffusion.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/Q2PSaturationFlux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/RichardsFlux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/RichardsFullyUpwindFlux.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/RichardsLumpedMassChange.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/RichardsMassChange.C"
+#include"/home/64a/projects/moose2/modules/richards/src/kernels/RichardsPPenalty.C"

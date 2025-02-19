@@ -1,0 +1,12 @@
+
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/AdaptiveSamplerAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/AddCovarianceAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/AddLikelihoodAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/AddSurrogateAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/AddVariableMappingAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/LoadCovarianceDataAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/LoadMappingDataAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/LoadSurrogateDataAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/ParameterStudyAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/StochasticResultsAction.C"
+#include"/home/64a/projects/moose2/modules/stochastic_tools/src/actions/StochasticToolsAction.C"

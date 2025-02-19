@@ -1,0 +1,10 @@
+
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/CircularAreaHydraulicDiameterFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/CosineHumpFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/CosineTransitionFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/CubicTransitionFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/GeneralizedCircumference.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/PiecewiseFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/SmoothTransitionFunction.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/THMParsedFunctionWrapper.C"
+#include"/home/64a/projects/moose2/modules/thermal_hydraulics/src/functions/TimeRampFunction.C"
